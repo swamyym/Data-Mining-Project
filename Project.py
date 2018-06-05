@@ -17,7 +17,7 @@ style.use('fivethirtyeight')
 #     states.append(abbv)
 #     query = "FMAC/HPI_"+str(abbv)
 #     df=pd.DataFrame()
-#     df = quandl.get(query, authtoken='Kwd-6xZfx5Vk6xtbiFPb')
+#     df = quandl.get(query, authtoken='XXXXXXXXXXXXXXXXXXXXXXXX')
 #     df.rename(columns={'Value':str(abbv)}, inplace=True)
 #    # df.columns = str(abbv)
 # 
